@@ -1,0 +1,15 @@
+D:\Visual Studio\231110\231110\bin\Debug\net6.0\231110.exe
+D:\Visual Studio\231110\231110\bin\Debug\net6.0\231110.deps.json
+D:\Visual Studio\231110\231110\bin\Debug\net6.0\231110.runtimeconfig.json
+D:\Visual Studio\231110\231110\bin\Debug\net6.0\231110.dll
+D:\Visual Studio\231110\231110\bin\Debug\net6.0\231110.pdb
+D:\Visual Studio\231110\231110\obj\Debug\net6.0\231110.csproj.AssemblyReference.cache
+D:\Visual Studio\231110\231110\obj\Debug\net6.0\231110.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\231110\231110\obj\Debug\net6.0\231110.AssemblyInfoInputs.cache
+D:\Visual Studio\231110\231110\obj\Debug\net6.0\231110.AssemblyInfo.cs
+D:\Visual Studio\231110\231110\obj\Debug\net6.0\231110.csproj.CoreCompileInputs.cache
+D:\Visual Studio\231110\231110\obj\Debug\net6.0\231110.dll
+D:\Visual Studio\231110\231110\obj\Debug\net6.0\refint\231110.dll
+D:\Visual Studio\231110\231110\obj\Debug\net6.0\231110.pdb
+D:\Visual Studio\231110\231110\obj\Debug\net6.0\231110.genruntimeconfig.cache
+D:\Visual Studio\231110\231110\obj\Debug\net6.0\ref\231110.dll
