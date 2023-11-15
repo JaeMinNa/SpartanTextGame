@@ -125,19 +125,19 @@ void UnEquip(Item item)
 ## 게임 화면
 
 ### 게임시작
-<img width="{해상도 비율}" src="https://github.com/JaeMinNa/SpartanDungeonTextGame/assets/149379194/c340d7ad-1cf4-4335-91cd-f881df310416"/>
+<img src="https://github.com/JaeMinNa/SpartanTextGame/assets/149379194/1bd614f2-c172-4e16-b5b9-dd5909f41734" width="1000">
 
 
 ### 인벤토리
-<img width="{해상도 비율}" src="https://github.com/JaeMinNa/SpartanDungeonTextGame/assets/149379194/b1434336-d52e-4b86-8b1d-8245af91bd67"/>
+<img src="https://github.com/JaeMinNa/SpartanTextGame/assets/149379194/7ce33fd0-5a87-4e0f-a8a7-1af26c6133c0" width="1000">
 
 
 ### 장비 장착
-<img width="{해상도 비율}" src="https://github.com/JaeMinNa/SpartanDungeonTextGame/assets/149379194/2884fb1d-8313-4961-8913-372b10b9ea93"/>
+<img src="https://github.com/JaeMinNa/SpartanTextGame/assets/149379194/a40faebb-868e-46a8-9407-e08144e57a81" width="1000">
 
 
 ### 상태보기
-<img width="{해상도 비율}" src="https://github.com/JaeMinNa/SpartanDungeonTextGame/assets/149379194/f92f9902-7631-4e4b-a18e-cad4cbb7560b"/>
+<img src="https://github.com/JaeMinNa/SpartanTextGame/assets/149379194/ad8b7a68-ae7e-407f-bcf9-5d89a421cc8b" width="1000">
 
 
 ## 프로젝트 시 일어난 문제와 해결  
